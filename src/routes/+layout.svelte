@@ -1,5 +1,5 @@
 <div>
-    on every page
+    on every page, every day!!!
 </div>
 
 <slot></slot>
